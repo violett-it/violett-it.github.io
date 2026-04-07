@@ -19,7 +19,7 @@ The custom domain `mta-sts.phimac.be` points to this GitHub Pages site, making t
 ## Repository contents
 
 - [`.well-known/mta-sts.txt`](.well-known/mta-sts.txt) — the MTA-STS policy file
-- [`CNAME.txt`](CNAME.txt) — contains the custom domain (`mta-sts.phimac.be`) used by GitHub Pages; rename to `CNAME` (no extension) to activate it
+- [`CNAME`](CNAME) — contains the custom domain (`mta-sts.phimac.be`) used by GitHub Pages; rename to `CNAME` (no extension) to activate it
 - [`_config.yml`](_config.yml) — Jekyll config to ensure the `.well-known` directory is included
 
 ## Do not modify
