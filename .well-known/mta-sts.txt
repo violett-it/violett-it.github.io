@@ -1,5 +1,4 @@
 version: STSv1
 mode: testing
-mx: d327503.a.ess.de.barracudanetworks.com
-mx: d327503.b.ess.de.barracudanetworks.com
+mx: violett-be.mail.protection.outlook.com
 max_age: 604800
