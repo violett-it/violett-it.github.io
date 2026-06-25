@@ -1,4 +1,4 @@
 version: STSv1
 mode: enforce
 mx: violett-be.mail.protection.outlook.com
-max_age: 604800
+max_age: 2419200
